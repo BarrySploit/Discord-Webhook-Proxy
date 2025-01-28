@@ -7,7 +7,7 @@ Steps:
 3) Create alert action to send notification to webhook.
    To format the data, use the ; character as a delimiter. This will be replaced with a newline.
    Example: "{{date}};Rule: {{rule.name}}; Reason: {{context.alerts.0.signal.reason}}"
-   ![image](https://github.com/user-attachments/assets/5a447670-14b0-42aa-8c7e-c5313ff8d181)\
+   ![image](https://github.com/user-attachments/assets/5a447670-14b0-42aa-8c7e-c5313ff8d181)
 
 
 
