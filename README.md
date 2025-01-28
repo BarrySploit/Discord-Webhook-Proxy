@@ -9,5 +9,9 @@ Steps:
    Example: "{{date}};Rule: {{rule.name}}; Reason: {{context.alerts.0.signal.reason}}"
    ![image](https://github.com/user-attachments/assets/5a447670-14b0-42aa-8c7e-c5313ff8d181)\
 
+
+
 Enjoy your alerts!
+
+
 ![image](https://github.com/user-attachments/assets/9e62e3fd-d22e-4984-9f39-316d7352e3c6)
